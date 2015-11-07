@@ -1,0 +1,21 @@
+{
+  "name": "octodex-api",
+  "version": "1.0.0",
+  "description": "Parse the GitHub Octodex website and generate a JSON file",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocoaheads-miami/octodex-api.git"
+  },
+  "keywords": [],
+  "author": "Julian Bonilla",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  }
+}
