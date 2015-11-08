@@ -5,8 +5,8 @@ var request = require('request');
 
 const URL = 'https://octodex.github.com/';
 
-var parseImage = function (image) {
-    console.log(`${image.attribs.alt}: ${image.attribs['data-src']}`);
+var parseImage = (image) => {
+    console.log(`${image.attribs.alt} - ${image.attribs['data-src']}`);
 
     return {
         name: image.attribs.alt,
@@ -14,7 +14,7 @@ var parseImage = function (image) {
     };
 };
 
-request(URL, function (error, response, body) {
+request(URL, (error, response, body) => {
     var $ = cheerio.load(body);
     var images = $('a.preview-image img');
 
