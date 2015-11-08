@@ -10,7 +10,7 @@ var parseImage = (image) => {
 
     return {
         name: image.attribs.alt,
-        url: `https://octodex.github.com/${image.attribs['data-src']}`
+        url: `${URL}${image.attribs['data-src']}`
     };
 };
 
