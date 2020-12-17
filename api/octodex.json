@@ -1,5 +1,150 @@
 [
   {
+    "name": "OctoAsians",
+    "url": "https://octodex.github.com/images/OctoAsians_dex_Full.png",
+    "author": "cameronfoxly"
+  },
+  {
+    "name": "the Octoqueer",
+    "url": "https://octodex.github.com/images/Octoqueer.png",
+    "author": "cameronfoxly, johncreek, tonyjaramillo"
+  },
+  {
+    "name": "the Terracottocat",
+    "url": "https://octodex.github.com/images/Terracottocat_Single.png",
+    "author": "chubbmo"
+  },
+  {
+    "name": "the Octogatos",
+    "url": "https://octodex.github.com/images/Octogatos.png",
+    "author": "cameronfoxly"
+  },
+  {
+    "name": "the Adacats",
+    "url": "https://octodex.github.com/images/Adacats.png",
+    "author": "cameronfoxly"
+  },
+  {
+    "name": "the Fintechtocat",
+    "url": "https://octodex.github.com/images/Fintechtocat.png",
+    "author": "ceciliorz"
+  },
+  {
+    "name": "the Brennatocat",
+    "url": "https://octodex.github.com/images/Brennatocat.png",
+    "author": "johncreek"
+  },
+  {
+    "name": "the Filmtocats",
+    "url": "https://octodex.github.com/images/filmtocats.png",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "the Sentrytocat",
+    "url": "https://octodex.github.com/images/Sentrytocat_octodex.jpg",
+    "author": "cameronmcefee"
+  },
+  {
+    "name": "the Umbrellatocat",
+    "url": "https://octodex.github.com/images/puddle_jumper_octodex.jpg",
+    "author": "rubyjazzy"
+  },
+  {
+    "name": "the Boxertocat",
+    "url": "https://octodex.github.com/images/boxertocat_octodex.jpg",
+    "author": "rubyjazzy"
+  },
+  {
+    "name": "the Surftocat",
+    "url": "https://octodex.github.com/images/surftocat.png",
+    "author": "jeejkang"
+  },
+  {
+    "name": "the Hulatocat",
+    "url": "https://octodex.github.com/images/hula_loop_octodex03.gif",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "the Scubatocat",
+    "url": "https://octodex.github.com/images/scubatocat.png",
+    "author": "cameronfoxly"
+  },
+  {
+    "name": "the Vinyltocat",
+    "url": "https://octodex.github.com/images/vinyltocat.png",
+    "author": "suziejurado"
+  },
+  {
+    "name": "the Tentocats",
+    "url": "https://octodex.github.com/images/tentocats.jpg",
+    "author": "heyhayhay, johncreek, cameronfoxly"
+  },
+  {
+    "name": "the Snowtocat",
+    "url": "https://octodex.github.com/images/snowtocat_final.jpg",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "the Justicetocat",
+    "url": "https://octodex.github.com/images/justicetocat.jpg",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "the Blacktocats",
+    "url": "https://octodex.github.com/images/blacktocats.png",
+    "author": "cameronfoxly"
+  },
+  {
+    "name": "the Saint Nictocat",
+    "url": "https://octodex.github.com/images/saint_nictocat.jpg",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "Mona Lovelace",
+    "url": "https://octodex.github.com/images/mona-lovelace.jpg",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "the Dinotocat",
+    "url": "https://octodex.github.com/images/dinotocat.png",
+    "author": "kimestoesta, heyhayhay"
+  },
+  {
+    "name": "the Benjamin Bannekat",
+    "url": "https://octodex.github.com/images/bannekat.png",
+    "author": "heyhayhay, johncreek, tonyjaramillo"
+  },
+  {
+    "name": "Catstello",
+    "url": "https://octodex.github.com/images/catstello.png",
+    "author": "tonyjaramillo"
+  },
+  {
+    "name": "the McEfeeline",
+    "url": "https://octodex.github.com/images/mcefeeline.jpg",
+    "author": "tonyjaramillo"
+  },
+  {
+    "name": "the Skatetocat",
+    "url": "https://octodex.github.com/images/skatetocat.png",
+    "author": "suziejurado"
+  },
+  {
+    "name": "the Bewitchedtocat",
+    "url": "https://octodex.github.com/images/bewitchedtocat.jpg",
+    "author": "heyhayhay"
+  },
+  {
+    "name": "the Inflatocat",
+    "url": "https://octodex.github.com/images/inflatocat.png",
+    "author": "rubyjazzy"
+  },
+  {
+    "name": "the Welcometocat",
+    "url": "https://octodex.github.com/images/welcometocat.png",
+    "author": "jglovier, JohnCreek"
+  },
+  {
     "name": "the Filmtocat",
     "url": "https://octodex.github.com//images/filmtocat.png",
     "author": "jeejkang"
